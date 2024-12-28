@@ -6,6 +6,6 @@ public class A {
 		B your = new B();
 		your.sayHello("Everyone");
 		C your2 = new C();
-		your2.sayBye("Everyone");
+		your2.sayBye22("Everyone");
 	}
 }
